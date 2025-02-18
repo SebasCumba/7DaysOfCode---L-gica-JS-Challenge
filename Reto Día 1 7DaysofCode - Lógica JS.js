@@ -1,6 +1,5 @@
 // Reto Día 1 7DaysofCode - Lógica JS
 // 1. Reformulación del Porgrama: "Re-Crear el Códgifo solicitado para que nos de la información Correcta, coherente y sin errores"
-// 2. Resultados Esperados: "Cuando se ejecuten las comparaciones lógicas en el Console nos de los resultados acordados"
 
     let numeroUno = 1
     let stringUno = '1'
