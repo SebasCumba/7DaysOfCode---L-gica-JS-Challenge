@@ -1,5 +1,5 @@
 // Reto Día 1 7DaysofCode - Lógica JS
-// 1. Reformulación del Porgrama: "Re-Crear el Códgifo solicitado para que nos de la información Correcta, coherente y sin errores"
+// 1. Reformulación del Porgrama: "Re-Crear el Códifo solicitado para que nos de la información Correcta, coherente y sin errores"
 
     let numeroUno = 1
     let stringUno = '1'
