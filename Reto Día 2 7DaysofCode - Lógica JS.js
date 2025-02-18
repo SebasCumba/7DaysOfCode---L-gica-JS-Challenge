@@ -1,7 +1,6 @@
 // Reto Día 2 7DaysofCode - Lógica JS
 /* 1. Reformulación del Porgrama: "Realizar una encuesta donde preguntes nombre, edad y que lenguaje practicas
 y al final mostrar un mensaje + pregunta opcional" */
-/* 2. Resultados Esperados: "Un cuadro interactivo donde aparezcan las preguntas" */
 
 let userName = prompt("¿Cuál es tu nombre?")
 let userAge = Number(prompt("¿Cuántos años tienes?"))
